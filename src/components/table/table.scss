@@ -1,0 +1,17 @@
+$primary-color: #b13d14;
+$secondary-color: #fff;
+$tertiary-color: #340701;
+$quaternary-color: #9c1a04;
+$quinary-color: #db8758;
+
+.styledTable {
+  color: $quinary-color;
+  background-color: $secondary-color;
+  border: 2px solid $quinary-color;
+  color: $quinary-color;
+  font-size: 2rem;
+  width: fit-content;
+  border-radius: 2.5rem;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
