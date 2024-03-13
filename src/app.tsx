@@ -1,6 +1,5 @@
-import { Button } from "./components/button";
-import { SlideButton } from "./components/slide-button";
 import { Table } from "./components/table";
+import { SlideButton, Button } from "./components";
 import "./index.scss";
 
 function App() {
